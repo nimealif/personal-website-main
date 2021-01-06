@@ -1,16 +1,24 @@
+section{
+    align-items: center;
+    height: 500px;
+    padding-bottom: 50px;
+}
+
+
+
 .half-width{
     width: 40%;
     float: left;
     padding-top:1% ;
     padding-left: 4%;
-    height: 400px;
+    
 
 }
 .half-width img{
     width: 100%;
 }
 .adjust{
-    margin-top: 210px;
+    margin-top: 200px;
 }
 
 h1 {
@@ -26,9 +34,26 @@ span{
 .link-btn{
     text-decoration: none;
     background-color: orange;
-    padding: 10px 20px;
+    padding: 15px 30px;
     border-radius: 10px;
     color: white;
     font-weight: 700;
     background-image: linear-gradient(LightSalmon,tomato);
+}
+
+.half-wiidth{
+    width: 40%;
+    float: left;
+    padding-top:1% ;
+    padding-right: 4%;
+}
+
+.adj{
+    margin-top: 200px;
+    margin-left: 100px;
+}
+h2{
+    font-size:30px;
+    text-align: center;
+    margin: 90px;
 }
