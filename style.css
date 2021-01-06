@@ -87,3 +87,52 @@ h2{
     background-color: white;
     border-radius: 10%;
 }
+
+.backg{
+    background-image: url(shapes/Group_33094_1.png);
+    background-size: 65%;
+    background-repeat: no-repeat;
+    width: 100%;  
+    background-position: center;
+}
+
+.righty{
+    margin-left: 25%;
+    padding-top: 26%;
+    font-weight: bolder;
+    color: white;
+    font-size: 30px;
+}
+
+.ri{
+    margin-left: 31%;
+    font-size: medium;
+    font-weight: 600;
+    text-decoration: none;
+    background-color: orange;
+    padding: 10px 20px;
+    border-radius: 10px;
+    color: white;
+    font-weight: 700;
+    background-image: linear-gradient(LightSalmon,tomato);
+}
+h4{
+    text-align: center;
+    font-weight: 600;
+    color: #696871;
+}
+
+.cen{
+    text-align: center;
+    color: #363958;
+    font-size: 36px;
+}
+.last{
+    margin-left:45% ;
+}
+
+.last img{
+   height:30px;
+   width: 30px;
+   padding: 8px;
+}
