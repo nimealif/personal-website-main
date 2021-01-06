@@ -137,3 +137,15 @@ h4{
    width: 30px;
    padding: 8px;
 }
+
+.skill-width{
+    width: 50%;
+    margin-left: 250px;
+    
+    padding-top:1% ;
+    height: 400px;
+}
+
+.skill-width img{
+    width: 100%;
+}
